@@ -1,0 +1,748 @@
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll.config
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.pdb
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\EntityFramework.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Owin.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\WebGrease.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.pdb
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\EntityFramework.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+D:\TIOT_API\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll.config
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.pdb
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\EntityFramework.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Owin.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\WebGrease.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.pdb
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\EntityFramework.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+C:\Users\farah\Documents\Visual Studio 2013\Projects\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\TIOT_WEB.dll.config
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\TIOT_WEB.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\TIOT_WEB.pdb
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Antlr3.Runtime.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\EntityFramework.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Newtonsoft.Json.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Owin.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\System.Web.Optimization.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\System.Web.Providers.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\WebGrease.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\System.Web.Optimization.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Antlr3.Runtime.pdb
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Newtonsoft.Json.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\EntityFramework.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\System.Web.Providers.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+D:\TIOT_API\TIOT_WEB V2\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\TIOT_WEB.dll.config
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\TIOT_WEB.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\TIOT_WEB.pdb
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Antlr3.Runtime.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\EntityFramework.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Newtonsoft.Json.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Owin.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\System.Web.Optimization.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\System.Web.Providers.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\WebGrease.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\System.Web.Optimization.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Antlr3.Runtime.pdb
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Newtonsoft.Json.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\EntityFramework.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\System.Web.Providers.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+C:\Users\farah\Desktop\currents\TIOT_WEB V2\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\TIOT_WEB.dll.config
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\TIOT_WEB.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\TIOT_WEB.pdb
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Antlr3.Runtime.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\EntityFramework.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Newtonsoft.Json.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Owin.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\System.Web.Optimization.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\System.Web.Providers.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\WebGrease.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\System.Web.Optimization.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Antlr3.Runtime.pdb
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Newtonsoft.Json.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\EntityFramework.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\System.Web.Providers.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+D:\TIOT_API\TIOT_WEB V3\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\TIOT_WEB.dll.config
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\TIOT_WEB.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\TIOT_WEB.pdb
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Antlr3.Runtime.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\EntityFramework.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Newtonsoft.Json.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Owin.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\System.Web.Optimization.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\System.Web.Providers.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\WebGrease.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\System.Web.Optimization.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Newtonsoft.Json.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\EntityFramework.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\System.Web.Providers.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+C:\Users\Sikandar Shameem\Desktop\New Tiot\TIOT_WEB V3\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\TIOT_WEB.dll.config
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\TIOT_WEB.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\TIOT_WEB.pdb
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Antlr3.Runtime.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\EntityFramework.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Newtonsoft.Json.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Owin.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\System.Web.Optimization.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\System.Web.Providers.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\WebGrease.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\System.Web.Optimization.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Antlr3.Runtime.pdb
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Newtonsoft.Json.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\EntityFramework.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\System.Web.Providers.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+C:\Users\farah\Desktop\TIOT_WEB v4\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\TIOT_WEB.dll.config
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\TIOT_WEB.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\TIOT_WEB.pdb
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Antlr3.Runtime.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\EntityFramework.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Newtonsoft.Json.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Owin.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\System.Web.Optimization.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\System.Web.Providers.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\WebGrease.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\System.Web.Optimization.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Antlr3.Runtime.pdb
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Newtonsoft.Json.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\EntityFramework.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\System.Web.Providers.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+D:\TIOT\AB Updated\TIOT_WEB v4\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll.config
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.pdb
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\EntityFramework.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Owin.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\WebGrease.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.pdb
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\EntityFramework.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+E:\tiot\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+E:\tiot\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+E:\tiot\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll.config
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.pdb
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\EntityFramework.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Owin.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\WebGrease.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.pdb
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\EntityFramework.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\TIOT_WEB V10\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll.config
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.pdb
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\EntityFramework.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Owin.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\WebGrease.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.pdb
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\EntityFramework.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+D:\TIOT\New folder\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\TIOT_WEB.dll.config
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\TIOT_WEB.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\TIOT_WEB.pdb
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Antlr3.Runtime.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\EntityFramework.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Newtonsoft.Json.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Owin.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\System.Web.Optimization.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\System.Web.Providers.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\WebGrease.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\System.Web.Optimization.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Antlr3.Runtime.pdb
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Newtonsoft.Json.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\EntityFramework.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\System.Web.Providers.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+C:\Users\farah\Desktop\CURRENT PROJECTS\IOT\back\TIOT_WEB Latest\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll.config
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.pdb
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\EntityFramework.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Owin.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\WebGrease.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.pdb
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\EntityFramework.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.pdb
+D:\TIOT\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.Web.v12.1.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Core.v12.1.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Excel.v12.1.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.IO.v12.1.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Reports.v12.1.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Word.v12.1.dll
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.Web.v12.1.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Core.v12.1.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Excel.v12.1.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.IO.v12.1.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Reports.v12.1.xml
+D:\TIOT\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Word.v12.1.xml
+D:\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll.config
+D:\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.dll
+D:\TIOT_WEB\TIOT_WEB\bin\TIOT_WEB.pdb
+D:\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.dll
+D:\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TIOT_WEB\TIOT_WEB\bin\AspNet.ScriptManager.jQuery.dll
+D:\TIOT_WEB\TIOT_WEB\bin\EntityFramework.dll
+D:\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Owin.dll
+D:\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.dll
+D:\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.dll
+D:\TIOT_WEB\TIOT_WEB\bin\WebGrease.dll
+D:\TIOT_WEB\TIOT_WEB\bin\EnvDTE.dll
+D:\TIOT_WEB\TIOT_WEB\bin\stdole.dll
+D:\TIOT_WEB\TIOT_WEB\bin\Infragistics4.Web.v12.1.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Core.v12.1.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Excel.v12.1.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.IO.v12.1.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Reports.v12.1.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Infragistics4.WebUI.Documents.Word.v12.1.xml
+D:\TIOT_WEB\TIOT_WEB\bin\System.Web.Optimization.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Antlr3.Runtime.pdb
+D:\TIOT_WEB\TIOT_WEB\bin\Newtonsoft.Json.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TIOT_WEB\TIOT_WEB\bin\EntityFramework.xml
+D:\TIOT_WEB\TIOT_WEB\bin\EntityFramework.SqlServer.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TIOT_WEB\TIOT_WEB\bin\System.Web.Providers.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Google.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TIOT_WEB\TIOT_WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.csprojResolveAssemblyReference.cache
+D:\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.dll
+D:\TIOT_WEB\TIOT_WEB\obj\Debug\TIOT_WEB.pdb

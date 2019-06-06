@@ -1,0 +1,336 @@
+﻿body {
+}
+
+#header {
+    height: 121px;
+}
+
+#logo_Image {
+    Width: 396px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    width: 1290px;
+}
+
+#logo_colm {
+    width: 1000px;
+    text-align: center;
+}
+
+#container {
+    padding-top: 3em;
+    padding-left: 10em;
+    width: 1120px;
+}
+
+#containersif {
+    padding-top: 5em;
+    padding-left: 14em;
+    width: 1000px;
+}
+
+#containerlsf {
+    padding-top: 4em;
+    padding-left: 20em;
+}
+
+#tablecn {
+    width: 1000px;
+    height: 59px;
+}
+
+#tableLogreprt {
+    width: 100%;
+    height: 59px;
+}
+
+#tablesifcn {
+    width: 1100px;
+    margin-top: 1em;
+}
+
+#colm {
+    width: 200px;
+}
+
+#label_colm {
+    width: 100px;
+}
+
+#txtBid_colm {
+    width: 100px;
+}
+
+th {
+    text-align: left;
+}
+
+#th_ind {
+    padding-bottom: 5px;
+}
+
+.FixedHeader {
+    position: absolute;
+}
+
+#tabcontainer {
+    padding-top: 1em;
+    height: 300px;
+}
+
+#footer {
+    padding-top: 3em;
+    padding: 10px;
+}
+
+#btn_calculate {
+    Height: 30px;
+    Width: 90px;
+}
+
+#uploader_colm {
+    width: 0px;
+}
+
+#reason_TextArea {
+    height: 90px;
+    width: 714px;
+}
+
+#colmlsf {
+    padding-bottom: 1.5em;
+}
+
+#btn_back {
+    Height: 30px;
+    Width: 100px;
+}
+
+#btn_send {
+    margin-left: 30em;
+    Height: 30px;
+    Width: 100px;
+}
+
+#btn_save {
+    margin-left: 5em;
+    Height: 30px;
+    Width: 100px;
+}
+
+#btn_print {
+    Height: 30px;
+    Width: 100px;
+    margin-left: 5em;
+}
+
+#btn_exit {
+    Height: 30px;
+    Width: 100px;
+    margin-left: 5em;
+}
+
+.auto-style2 {
+    width: 394px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.auto-style3 {
+    Width: 386px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.TempText {
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5%;
+}
+
+.temp {
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    padding-top: 10%;
+}
+
+.notificationmenu {
+    display: block;
+    transition: height .2s ease-in-out;
+    border: 1px solid #337ab7;
+    border-top: none;
+    border-color: #337ab7;
+    color: #000;
+    -webkit-box-shadow: #337ab7;
+    box-shadow: #337ab7;
+    display: none;
+    outline: none;
+    overflow: hidden;
+    position: absolute;
+    right: 3%;
+    -webkit-animation: gb__a .2s;
+    animation: gb__a .2s;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-user-select: text;
+    overflow-y: auto;
+    width: 325px;
+    top: 15%;
+    box-shadow: 1px 4px 4px 6px rgba(0, 0, 0, 0.2), 1px 2px 11px 4px rgba(0, 0, 0, 0.19);
+}
+
+.notification-header {
+    background-color: #337ab7;
+    border-bottom: 1px solid #777;
+    font-weight: bold;
+    text-align: center;
+    padding: 2px 0 4px;
+    color: white;
+    width: 100%;
+}
+
+.notificationtable {
+    height: 400px;
+    background-color: white;
+}
+
+#tblnotify {
+    background-color: white;
+}
+
+.pageHDash {
+    padding-bottom: 2px;
+    margin: 50px 0 19px;
+}
+
+#imgnotify {
+    float: right;
+}
+
+.notifyMessage {
+    font-size: 11px;
+    color: #337ab7;
+    font-weight: bold;
+    float: left;
+    text-align: left;
+}
+
+
+@-moz-document url-prefix(http://),url-prefix(https://) {
+    scrollbar {
+        -moz-appearance: none !important;
+    }
+
+    thumb:hover, scrollbarbutton:hover {
+        -moz-appearance: none !important;
+    }
+
+    scrollbar[orient="vertical"] {
+        min-width: 10px !important;
+    }
+}
+/**/
+
+/*.scrollbar-container .inner {
+    height: 2011px;
+    padding: 1em;
+    background-color: white;
+    font-family: sans-serif;
+}*/
+::-webkit-scrollbar {
+    background: transparent;
+    width: 0.4em;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #337ab7;
+    border-radius: 1.5em;
+}
+
+.panel-footer {
+    padding: 5px 15px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+
+
+
+.selected {
+    background-color: #337ab7;
+    color: white;
+}
+
+
+.ON {
+    background-color: green;
+}
+
+.OFF {
+    background-color: red;
+}
+
+.lblsession {
+    color: white;
+    font-family: cursive;
+}
+
+.modal-content {
+    border: 3px solid rgb(51, 122, 183);
+}
+
+.modal-footer {
+    border-top: 1px solid #337ab7;
+}
+
+.modal-header {
+    padding: 0;
+    border-bottom: 1px solid #337ab7;
+}
+
+.chart {
+    width: 100%;
+    height: 100%;
+}
+
+.buttons-html5 {
+    font-size: 8px;
+    color: white;
+    background-color: #337ab7;
+}
+
+#success_message {
+    display: none;
+}
+
+#txtContactNumber {
+    position: relative;
+    padding-left: 32px;
+}
+
+#illusion {
+    z-index: 999999;
+    position: absolute;
+    left: 24px;
+    top: 7px;
+    width: 50px;
+    height: 24px;
+}
+
+.alt-up{
+    padding: 6px;
+    font-size: 10px;
+}
+
+.circle {
+	width: 100%;
+	height: 100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}

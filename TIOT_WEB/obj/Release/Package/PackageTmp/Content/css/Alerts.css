@@ -1,0 +1,47 @@
+﻿.customAlert-success {
+    padding-top: 55px;
+    margin-bottom: -50px;
+     color: #fff;
+    background-color: #51a351;
+    z-index: 9999 !important;
+    text-align: center !important;
+    padding-bottom: 7px;
+}
+
+.customAlert-error success {
+    margin-left: 10px;
+        color: #fff;
+}
+
+
+
+.customAlert-warning {
+    color: #fff;
+    background-color: #f89406;
+    padding-top: 55px;
+    margin-bottom: -50px;
+    z-index: 9999 !important;
+    text-align: center !important;
+    padding-bottom: 7px;
+}
+
+    .customAlert-warning span {
+        margin-left: 10px;
+            color: #fff;
+    }
+
+.customAlert-error {
+     color: #fff;
+    background-color: rgba(189, 54, 47, 0.8);
+    padding-top: 55px;
+    margin-bottom: -50px;
+    z-index: 9999 !important;
+    text-align: center !important;
+    padding-bottom: 7px;
+    /*position:fixed;*/
+}
+
+    .customAlert-error span {
+        margin-left: 10px;
+            color: #fff;
+    }
